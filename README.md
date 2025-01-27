@@ -53,3 +53,8 @@ Bu proje, Google Gemini API'sini kullanarak sesli komutları ve sohbet özellikl
     *   Sağ panelde sohbet veya komut modunu seçebilirsiniz.
     *   Mikrofon düğmesine tıklayarak sesli dinlemeyi başlatıp durdurabilirsiniz.
     *   Sesli komut vermek için "Artemis" kelimesiyle başlayın, ardından komutunuzu söyleyin (örneğin, "Artemis Google'ı aç").
+
+
+## Katkı
+
+Katkılarınız memnuniyetle karşılanır! Hata bildirimleri ve çekme istekleri için lütfen GitHub üzerinden işlem yapın.
