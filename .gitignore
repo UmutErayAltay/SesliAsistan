@@ -1,0 +1,14 @@
+# Python bytecode dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Ortam değişkenleri dosyası
+.env
+
+# Kısayollar klasörü (isteğe bağlı, eğer örnek kısayolları paylaşmak istemiyorsanız)
+shortcuts/
+
+# İşletim sistemi dosyaları
+*.DS_Store
+Thumbs.db 

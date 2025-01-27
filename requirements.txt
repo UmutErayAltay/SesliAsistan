@@ -1,0 +1,9 @@
+python-dotenv
+watchdog
+customtkinter
+speechrecognition
+pyaudio  # Eğer PyAudio kurulumunda sorun yaşarsanız, alternatif olarak sounddevice deneyebilirsiniz.
+Pillow
+langchain-google-genai
+langchain
+pyttsx3 
