@@ -58,9 +58,6 @@ Bu proje, Google Gemini API'sini kullanarak sesli komutları ve sohbet özellikl
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-## Katkı
-
-Katkılarınız memnuniyetle karşılanır! Hata bildirimleri ve çekme istekleri için lütfen GitHub üzerinden işlem yapın.
 
 ---
 
