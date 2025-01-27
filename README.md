@@ -21,7 +21,7 @@ Bu proje, Google Gemini API'sini kullanarak sesli komutları ve sohbet özellikl
 1.  **Depoyu klonlayın:**
 
     ```bash
-    git clone [https://github.com/UmutErayAltay/SesliAsistan]
+    git clone [https://github.com/UmutErayAltay/SesliAsistan.git]
     cd [proje klasörünüz]
     ```
 
