@@ -417,12 +417,8 @@ class App(ctk.CTk):
                 response = self.task_chain.invoke({"input": text})
 
                 command_result = execute_command(response.content)
-                
-                # Gemini'ye gönderilecek mesaja CMD çıktısını ekle
-                gemini_input = f"{text}\n\nCMD Çıktısı:\n{command_result}"
-                
-                response = self.chat_chain.invoke({"input": gemini_input})
-                self.update_output(f"Asistan: {response.content}")
+                self.update_output(f'Asistan: {response.content}')
+                self.update_output(f"Asistan: {command_result}")
 
             else:
 
