@@ -8,7 +8,7 @@ import time
 
 
 
-# Özel modüllerlkj
+# Özel modüller
 
 from ui import App
 
