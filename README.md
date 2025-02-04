@@ -21,7 +21,7 @@ Bu proje, Google Gemini API'sini kullanarak sesli komutları ve sohbet özellikl
 1.  **Depoyu klonlayın:**
 
     ```bash
-    git clone [repo adresiniz]
+    git clone [https://github.com/UmutErayAltay/SesliAsistan.git]
     cd [proje klasörünüz]
     ```
 
@@ -54,14 +54,7 @@ Bu proje, Google Gemini API'sini kullanarak sesli komutları ve sohbet özellikl
     *   Mikrofon düğmesine tıklayarak sesli dinlemeyi başlatıp durdurabilirsiniz.
     *   Sesli komut vermek için "Artemis" kelimesiyle başlayın, ardından komutunuzu söyleyin (örneğin, "Artemis Google'ı aç").
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ## Katkı
 
 Katkılarınız memnuniyetle karşılanır! Hata bildirimleri ve çekme istekleri için lütfen GitHub üzerinden işlem yapın.
-
----
-
-**Not:** Bu `README.md` dosyası bir örnektir. Projenize göre içeriği düzenleyebilirsiniz. Örneğin, daha detaylı kullanım talimatları, ekran görüntüleri veya ek özellikler ekleyebilirsiniz. 
